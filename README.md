@@ -3,7 +3,7 @@
 
 ## Link: [Timer](https://loaymoolb.github.io/countdown-timer)
 
-![Image](https://github.com/loaymoolb/landing-ai-xp/raw/main/cover.png)
+![Image](https://github.com/loaymoolb/countdown-timer/raw/main/cover.png)
 
 ## Get in touch with me:
 [LinkedIn](https://linkedin.com/in/olha-chumak)  
